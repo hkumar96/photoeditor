@@ -8,6 +8,15 @@ This repository consists of the following files:
 Main application is GUI photoeditor that provides user with two features:
 1. Red eye removal: Detect and remove any red eye if found.
 2. Exemplar based inpainting: This implements an exemplar based inpainting algorithm. Refer [this](https://www.computer.org/csdl/proceedings/cvpr/2003/1900/02/190020721-abs.html)
+
+Language - Python3
+
+Required libraries:
+1. cv2
+2. numpy
+3. matplotlib
+4. PIL
+5. tkinter
 ```bash
 Usage: $ python main_app.py
 ```
