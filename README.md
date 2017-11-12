@@ -1,4 +1,4 @@
-#Photoeditor application
+# Photoeditor application
 
 This repository consists of the following files:
 1. main_app.py: This is the main file to be exectued to run the photoeditor
